@@ -14,6 +14,9 @@
         <b-list-group-item href="#" variant="success"
           >Success list group item</b-list-group-item
         >
+        <b-list-group-item href="#" variant="success"
+          >Success list group item</b-list-group-item
+        >
         <b-list-group-item href="#" variant="danger"
           >Danger list group item</b-list-group-item
         >
